@@ -35,16 +35,8 @@ Navigate to any model folder and run the corresponding Jupyter notebook:
 jupyter notebook "Code and results of each model/1.Comparison Transferlearning Densenet201/1. Model+code/TransferLearningTest.ipynb"
 ```
 
-
-
-## Project Structure
-
-
-
-Each model folder contains:
-- `1. Model+code/`: Jupyter notebooks with implementation
-- `2. Images/`: Training plots and visualizations
-- `3. Results/`: CSV files and result analysis notebooks
+## Raw data files
+[Zenodo](https://doi.org/10.5281/zenodo.18712661)
 
 
 
